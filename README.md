@@ -42,5 +42,5 @@ The project includes multiple dashboards:
 Feel free to contribute by optimizing the analysis, adding new features, or improving visualizations.
 
 ---
-**📝 Repository Maintainer:** [Suraj Gupta]
+**📝 Repository Maintainer:** [Suraj_Gupta]
 
